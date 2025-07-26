@@ -19,7 +19,8 @@
 
 <img width="2879" height="1359" alt="Screenshot 2025-07-26 170320" src="https://github.com/user-attachments/assets/5754cfac-6974-489d-b71e-9ec126b362a6" />
 
-<img width="2875" height="1389" alt="Screenshot 2025-07-26 170302" src="https://github.com/user-attachments/assets/2a2e76b4-0752-4858-aa0c-a706e4fca1bf" />
+<img width="2875" height="1389" alt="Screenshot 2025-07-26 170302" src="https://github.com/user-attachments/assets/b2c0b2df-0736-4965-9979-6c9a0f8d9502" />
+
 
 ### 🌙 Dark Mode
 <img width="2877" height="1399" alt="image" src="https://github.com/user-attachments/assets/10551f1f-d424-476f-a3db-8f7282355eb8" />
